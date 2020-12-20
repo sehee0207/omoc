@@ -1,2 +1,2 @@
 # omoc
-2020 sunrin - iwop summer vacation project_
+2020 sunrin - IWOP summer vacation project_
